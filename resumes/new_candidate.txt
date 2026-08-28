@@ -1,0 +1,11 @@
+
+New Candidate
+
+Full Stack Developer
+3 years experience
+React
+Node.js
+MongoDB
+TypeScript
+Docker
+Git

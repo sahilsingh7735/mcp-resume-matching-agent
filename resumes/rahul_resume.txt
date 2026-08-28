@@ -1,0 +1,20 @@
+Rahul Sharma
+
+Full Stack Developer
+
+Experience:
+4 years of professional software development.
+
+Skills:
+React
+Node.js
+TypeScript
+JavaScript
+MongoDB
+Express
+REST APIs
+Git
+Docker
+
+Education:
+B.Tech in Computer Science

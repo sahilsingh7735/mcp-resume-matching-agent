@@ -1,0 +1,18 @@
+Amit Kumar
+
+Backend Developer
+
+Experience:
+5 years of professional software development.
+
+Skills:
+Python
+FastAPI
+Django
+PostgreSQL
+Redis
+Docker
+AWS
+
+Education:
+B.Tech in Computer Science
